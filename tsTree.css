@@ -16,37 +16,38 @@ ul{
     float:none;
 }
 
-li{
-	float:none;
+li.hamza {
+    float: none;
     cursor: pointer;
     background-color: #00b7ee;
     border-bottom: 1px solid #fff;
-    border-right:1px solid #fff ;
+    border-right: 1px solid #fff;
     color: #fff;
     padding: 10px 15px;
-    position:relative;
+    position: relative;
 }
 
-li:hover{
+li:hover {
     background-color: #3498db;
 }
 
-.choosen{
+.choosen {
     background-color: #3498db !important;
 }
 
-.page-arrow{
-	position:absolute;
-	right:10px;
+.page-arrow {
+    position: absolute;
+    right: 10px;
     top: 15px;
-    width:0px;
-    height:0px;
-    border-width:5px;
-    border-style:solid;
-    border-color:transparent transparent transparent #fff;
+    width: 0px;
+    height: 0px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent transparent #fff;
 }
-.page-btn{
-	position:absolute;
-	right:32px;
-	bottom:16px;
+
+.page-btn {
+    position: absolute;
+    right: 32px;
+    bottom: 16px;
 }
