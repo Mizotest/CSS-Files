@@ -1,6 +1,6 @@
 
 .column{
-    display: block;
+    display: inline-block;
     float: up;
     width: 25%;
 
