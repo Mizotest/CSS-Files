@@ -1,7 +1,7 @@
 
 .column{
     display: inline-block;
-    float: down;
+    float: left;
     width: 25%;
 
 }
@@ -48,6 +48,6 @@ li.hamza:hover {
 
 .page-btn {
     position: absolute;
-    right: 32px;
-    bottom: 16px;
+    right: 320px;
+    bottom: 160px;
 }
