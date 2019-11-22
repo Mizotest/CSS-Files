@@ -1,7 +1,7 @@
 
 .column{
     display: inline-block;
-    float: left;
+    float: down;
     width: 25%;
 
 }
