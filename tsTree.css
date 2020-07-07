@@ -42,7 +42,9 @@ li.hamza1 {
 li.hamza:hover {
     background-color: #3498db;
 }
-
+li.am-active {
+    background-color: #3498d0;
+}
 .choosen {
     background-color: #808080; !important;
 }
@@ -63,3 +65,5 @@ li.hamza:hover {
     right: 32px;
     bottom: 16px;
 }
+
+
